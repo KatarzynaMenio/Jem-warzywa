@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: "Nunito Sans", sans-serif;
+}
+
+/*Header section*/
+.container {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.nav__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    font-weight: 700;
+}
+
+
+.page__nav a {
+    text-decoration: none;
+    margin: 0 10px;
+    color: #9d9b9b;
+}
+
+.page__nav a:hover {
+    color: black;
+}
+
+.page__nav {
+    text-transform: uppercase;
+}
