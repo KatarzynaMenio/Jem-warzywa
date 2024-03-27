@@ -34,3 +34,36 @@ body {
 .page__nav {
     text-transform: uppercase;
 }
+
+/*Banner section*/
+.banner {
+    background-image: url("../images/banner-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.banner__title {
+    font-size: 80px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.banner__title span {
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 8px;
+    font-weight: 900;
+}
+
+.banner__text {
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
