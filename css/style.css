@@ -124,4 +124,34 @@ body {
     background-color: tomato;
 }
 
+/*Footer section*/
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #efeded;
+}
+
+.footer__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: inherit;
+    width: 1200px;
+    margin: 50px 0 50px 0;
+}
+
+.footer_left a {
+    text-decoration: none;
+    color: gray;
+    margin-right: 20px;
+}
+
+.footer_left a:hover {
+    color: tomato;
+}
+
+.copy__footer{
+    color: #b9b9b9;
+}
+
 
