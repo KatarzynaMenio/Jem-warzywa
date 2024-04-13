@@ -1,6 +1,12 @@
-# jem-warzywa - practical task
+# Jem-warzywa - practical task
 
 "JemWarzywa.pl" is a website project promoting healthy eating and wholesome food. The aim of the website is to inspire people to adopt a healthier lifestyle by advocating for the consumption of vegetables and educating about their health benefits.
+
+**Screenshots:**
+
+<span>
+<img src="images/screen.png" alt="bestshop" height="200">
+</span>
 
 ## Technologies
 
